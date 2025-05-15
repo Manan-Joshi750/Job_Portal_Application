@@ -76,9 +76,9 @@ To get a local copy up and running follow these simple steps.
    ```
 7. Open your browser and navigate to `http://localhost:5173` to view the app.
 
-## Project Demonstration
+## 📽️ Project Demonstration
 
-Experience the Job Portal Application live! 🚀  
-Click the link below to explore the platform and interact with its features :
+Here's a quick walkthrough of the Job Portal Application in action! 🎬  
+The video showcases core functionalities such as job listings, authentication, applying for jobs, and more.
 
-🔗 [Visit Live Site](https://your-deployed-link.com)
+📌 [Watch the Demo Video](https://www.kapwing.com/videos/6825d82045adc686a3af26b1)
