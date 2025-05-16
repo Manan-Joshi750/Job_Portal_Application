@@ -83,4 +83,4 @@ To get a local copy up and running follow these simple steps.
 Here's a quick walkthrough of the Job Portal Application in action! 🎬  
 The video showcases core functionalities such as job listings, authentication, applying for jobs, and more.
 
-📌 [Watch the Demo Video](https://www.kapwing.com/videos/6825d82045adc686a3af26b1)
+📌 [Watch the Demo Video](https://go.screenpal.com/watch/cThDDwn6ew3)
